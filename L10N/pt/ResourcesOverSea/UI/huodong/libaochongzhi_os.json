@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "libaochongzhi_os",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1920,
+        "Y": 1080
+      },
+      "LightingGuid": "C0C11E91-4ED3FDD7-1A93B5AC-20530052",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1920,
+    "SizeY": 1080,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 2073600,
+          "SizeOnDisk": 2073600,
+          "OffsetInFile": "0x1FAD08"
+        },
+        "SizeX": 1920,
+        "SizeY": 1080,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

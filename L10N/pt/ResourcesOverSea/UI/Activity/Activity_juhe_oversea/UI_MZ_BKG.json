@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_MZ_BKG",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1481,
+        "Y": 706
+      },
+      "LightingGuid": "7B151356-419D9E05-2B8B96B0-EBE51C0C",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1481,
+    "SizeY": 706,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 4182344,
+          "SizeOnDisk": 4182344,
+          "OffsetInFile": "0x3FDA72"
+        },
+        "SizeX": 1481,
+        "SizeY": 706,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

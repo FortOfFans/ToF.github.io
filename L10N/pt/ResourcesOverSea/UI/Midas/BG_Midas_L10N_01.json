@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "BG_Midas_L10N_01",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1280,
+        "Y": 720
+      },
+      "LightingGuid": "92B7A6ED-4A98E0BA-5501F2BF-A7B0CD97",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1280,
+    "SizeY": 720,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 921600,
+          "SizeOnDisk": 921600,
+          "OffsetInFile": "0xE1904"
+        },
+        "SizeX": 1280,
+        "SizeY": 720,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Title_Zhixinggongji_01",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 656,
+        "Y": 260
+      },
+      "LightingGuid": "82C7B615-4F8E462C-78565B9E-9F91314D",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 656,
+    "SizeY": 260,
+    "PackedData": 1,
+    "PixelFormat": "PF_DXT5",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 170560,
+          "SizeOnDisk": 170560,
+          "OffsetInFile": "0x2A36C"
+        },
+        "SizeX": 656,
+        "SizeY": 260,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "XGDBZ_haibao_logo02_os",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 1024,
+        "Y": 390
+      },
+      "LightingGuid": "EDE44FBC-4E3319BF-B810CAA7-260031DB",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 1024,
+    "SizeY": 390,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 1597440,
+          "SizeOnDisk": 1597440,
+          "OffsetInFile": "0x186948"
+        },
+        "SizeX": 1024,
+        "SizeY": 390,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

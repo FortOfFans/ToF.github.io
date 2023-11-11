@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Title_Midas_Desc01",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 543,
+        "Y": 160
+      },
+      "LightingGuid": "D8CC5DD1-4B6F065D-AECE15B2-B4B07D40",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 543,
+    "SizeY": 160,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 347520,
+          "SizeOnDisk": 347520,
+          "OffsetInFile": "0x5569C"
+        },
+        "SizeX": 543,
+        "SizeY": 160,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

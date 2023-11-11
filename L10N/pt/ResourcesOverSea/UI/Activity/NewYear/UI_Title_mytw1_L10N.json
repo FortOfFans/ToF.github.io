@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "UI_Title_mytw1_L10N",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 510,
+        "Y": 106
+      },
+      "LightingGuid": "EDEEF80E-43E59169-3EA54CAE-B451B150",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 510,
+    "SizeY": 106,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 216240,
+          "SizeOnDisk": 216240,
+          "OffsetInFile": "0x355E6"
+        },
+        "SizeX": 510,
+        "SizeY": 106,
+        "SizeZ": 1
+      }
+    ]
+  }
+]

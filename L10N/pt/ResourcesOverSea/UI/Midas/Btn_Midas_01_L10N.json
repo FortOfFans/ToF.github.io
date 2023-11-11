@@ -1,0 +1,34 @@
+[
+  {
+    "Type": "Texture2D",
+    "Name": "Btn_Midas_01_L10N",
+    "Class": "UScriptClass'Texture2D'",
+    "Properties": {
+      "ImportedSize": {
+        "X": 223,
+        "Y": 47
+      },
+      "LightingGuid": "858E2845-49BF9DFB-5D7F09A1-6E019880",
+      "LODGroup": "TEXTUREGROUP_UI",
+      "NeverStream": true
+    },
+    "SizeX": 223,
+    "SizeY": 47,
+    "PackedData": 1,
+    "PixelFormat": "PF_B8G8R8A8",
+    "FirstMipToSerialize": 0,
+    "Mips": [
+      {
+        "BulkData": {
+          "BulkDataFlags": "BULKDATA_SingleUse | BULKDATA_ForceInlinePayload",
+          "ElementCount": 41924,
+          "SizeOnDisk": 41924,
+          "OffsetInFile": "0xACDC"
+        },
+        "SizeX": 223,
+        "SizeY": 47,
+        "SizeZ": 1
+      }
+    ]
+  }
+]
